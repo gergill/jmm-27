@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  27 APR 2026 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  27 APR 2026 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -212,13 +212,13 @@ Package rerunfilecheck Info: File `outline.out' has not changed.
 Here is how much of TeX's memory you used:
  8407 strings out of 467349
  130134 string characters out of 5415642
- 550776 words of memory out of 5000000
+ 549750 words of memory out of 5000000
  37421 multiletter control sequences out of 15000+600000
  631864 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,302b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on outline.pdf (2 pages, 82441 bytes).
+Output written on outline.pdf (2 pages, 81387 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
